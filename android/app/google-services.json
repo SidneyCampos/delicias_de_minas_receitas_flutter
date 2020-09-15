@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458519932348",
+    "firebase_url": "https://delicias-de-minas-receitas.firebaseio.com",
+    "project_id": "delicias-de-minas-receitas",
+    "storage_bucket": "delicias-de-minas-receitas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458519932348:android:67cf59603a293e13900fb9",
+        "android_client_info": {
+          "package_name": "appartesanal.deliciasdeminasreceitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458519932348-isj68m0rnqir34n57fc9t7bp7cnifm90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMyyR_UvvxhWaZlAJtr2EbU2K8Ftbt5Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458519932348-isj68m0rnqir34n57fc9t7bp7cnifm90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
